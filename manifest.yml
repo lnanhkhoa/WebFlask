@@ -1,6 +1,6 @@
 ---
 applications:
-- name: python-iot-khoa
+- name: webflaskforkhoa
   memory: 256M
   services:
    - iot-python
